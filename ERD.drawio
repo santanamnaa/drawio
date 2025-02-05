@@ -116,7 +116,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4qC1lmDTtcemMpcDV6s7-4" value="pengajuan_kategori_cuti_id int NOT NULL" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" vertex="1" parent="4qC1lmDTtcemMpcDV6s7-2">
+        <mxCell id="4qC1lmDTtcemMpcDV6s7-4" value="id_pengajuan_kategori_cuti " style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" vertex="1" parent="4qC1lmDTtcemMpcDV6s7-2">
           <mxGeometry x="30" width="390" height="30" as="geometry">
             <mxRectangle width="390" height="30" as="alternateBounds" />
           </mxGeometry>
