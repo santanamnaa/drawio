@@ -1494,7 +1494,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vXi1VNb7JX7KZDoYpbD1" name="concat">
-    <mxGraphModel dx="2993" dy="1734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2181" dy="1336" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1891,7 +1891,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cmacAGLB_d5NKqOGAPId-23" value="Jatah_Cuti (Leave_Type)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="690" width="420" height="120" as="geometry" />
+          <mxGeometry x="520" y="690" width="420" height="120" as="geometry" />
         </mxCell>
         <mxCell id="cmacAGLB_d5NKqOGAPId-24" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="cmacAGLB_d5NKqOGAPId-23">
           <mxGeometry y="30" width="420" height="30" as="geometry" />
@@ -1933,7 +1933,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cmacAGLB_d5NKqOGAPId-33" value="Saldo Cuti (Leave_Balance)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="860" width="420" height="150" as="geometry" />
+          <mxGeometry x="570" y="945" width="420" height="150" as="geometry" />
         </mxCell>
         <mxCell id="cmacAGLB_d5NKqOGAPId-34" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="cmacAGLB_d5NKqOGAPId-33">
           <mxGeometry y="30" width="420" height="30" as="geometry" />
@@ -1988,7 +1988,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cmacAGLB_d5NKqOGAPId-46" value="Persetujuan_Cuti (Leave_Approval)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="1040" width="420" height="180" as="geometry" />
+          <mxGeometry x="550" y="1110" width="420" height="180" as="geometry" />
         </mxCell>
         <mxCell id="cmacAGLB_d5NKqOGAPId-47" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="cmacAGLB_d5NKqOGAPId-46">
           <mxGeometry y="30" width="420" height="30" as="geometry" />
@@ -2055,13 +2055,7 @@
             <mxRectangle width="390" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cmacAGLB_d5NKqOGAPId-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.001;entryY=0.131;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cmacAGLB_d5NKqOGAPId-11" target="cmacAGLB_d5NKqOGAPId-33">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cmacAGLB_d5NKqOGAPId-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cmacAGLB_d5NKqOGAPId-5" target="cmacAGLB_d5NKqOGAPId-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cmacAGLB_d5NKqOGAPId-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cmacAGLB_d5NKqOGAPId-17" target="cmacAGLB_d5NKqOGAPId-47">
+        <mxCell id="cmacAGLB_d5NKqOGAPId-63" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;endArrow=ERoneToMany;" edge="1" parent="1" source="cmacAGLB_d5NKqOGAPId-5" target="cmacAGLB_d5NKqOGAPId-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4Il6iPPNW8YUIVUcWFkm-67" value="Karyawan" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
